@@ -24,7 +24,7 @@ message agent:
 message producer:
 --------------------
 >  - produce many template messages
->  - send message to mq server(for example:beanstalkd)![此处输入图片的描述][1]
+>  - send message to mq server(for example:beanstalkd)![大概示意这样的][1]
 
 
   [1]: http://hd.chenxf.org/static/images/fzs.png
